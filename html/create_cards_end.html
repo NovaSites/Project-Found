@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create Card</title>
+    <link rel="stylesheet" href="../style/general.css">
+    <link rel="stylesheet" href="../style/create_cards.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <h1>Create a New Card</h1>
+    <h1>In Development</h1>
+    <h1>Not Functioning</h1>
+
+    <!-- Card Creation Form -->
+    <form onsubmit="return false">
+        <label for="cardName">Card Name:</label>
+        <input type="text" id="cardName" name="cardName" required>
+
+        <label for="tags">Tags (Use , to separate the tags):</label>
+        <input type="text" id="tags" name="tags">
+
+        <label for="icon">Icon (PNG):</label>
+        <input type="file" id="icon" name="icon" accept="image/png">
+
+        <button type="submit" id="submit-button">Create Card</button>
+    </form>
+
+    <script src="../script/create_cards.js"></script>
+</body>
+</html>

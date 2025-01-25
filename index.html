@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Found</title>
+
+    <link rel="stylesheet" href="style/general.css">
+    <link rel="stylesheet" href="style/section.css">
+    <link rel="stylesheet" href="style/cards.css">
+    <link rel="stylesheet" href="style/header.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="header">
+        <div class="header_left">
+           <h1>In Development</h1>
+        </div>
+        <div class="header_center">
+            <img class="logo" src="Icons/Project_Found-Logo.png"alt ="Logo not available">
+            <a href='html/about.html'>
+                <button class="title">Project Found</button>
+            </a>  
+        </div>
+        <div class="header_right">
+            
+        </div>
+    </div>
+
+
+
+    <div class="right_panel">
+        <input class="search-bar" type="text" id="searchInput" placeholder="Search" onkeyup="filterTags()">
+        <a href='html/create_cards.html' target="_blank">
+            <button class="create-cards-button">Create Cards</button>
+        </a>
+        <h3>Info:</h3>
+        <a href='html/about.html' class="about-link">About</a>
+        <p>To search write the whole Tag!!</p>
+        <br>
+        <p>Connect words in 1 Tag with -</p>
+        <p>Example: social-media</p>
+    </div>
+    
+
+    <div class="section_grid">
+
+
+        <div class="center_section" id="cards">
+            <!-- Cards will be dynamically loaded here -->
+        </div>
+
+        <div class="right_section">
+            
+        </div>
+    </div>
+    <script src="script/load_cards.js"></script>
+    <script src="script/filter_cards.js"></script>
+</body>
+</html>

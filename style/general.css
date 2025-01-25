@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    padding-top:60px ;
+    font-family: roboto, Arial;
+    font-size: 20px;
+    height: 3000px;
+    min-width: 830px;
+} 
+
+.about-link{
+    font-family: roboto, Arial;
+    font-size: 30px;
+}

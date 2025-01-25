@@ -1,0 +1,36 @@
+.card {
+    display: grid;
+    grid-template-rows: 110px 1fr;
+    border: 5px solid black;
+    border-radius: 20px;
+    align-items: center;
+    text-align: center;
+    width: 180px;
+    height: 180px;
+    margin-bottom: 20px;
+}
+
+.card_text {
+    margin-top: 5px;
+    padding-top: 5px;
+    border-top: 5px solid black;
+    margin-bottom: 5px;
+
+}
+
+.icon {
+    height: auto; /* Allow icon to fill the available width */
+    width: auto; /* Maintain aspect ratio */
+    max-height: 115px;
+    max-width: 115px;
+    display: block; /* Allow centering */
+    padding-top: 15px;
+    margin: auto; /* Center the icon */
+    align-items: center;
+    
+}
+
+.icon_space {
+    border: 0px;
+    font-size: 0px;
+}

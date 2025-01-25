@@ -1,0 +1,100 @@
+.section_grid{
+    display: grid;
+    grid-template-columns: 1fr 300px;
+}
+
+
+.left_section, .right_section{
+    min-width: 200px;
+}
+
+
+.center_section{
+    margin-left: 40px;
+    display: grid;
+    
+}
+@media (min-width: 780px) and (max-width: 1001px) {
+    .center_section{
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media (min-width: 1001px) and (max-width: 1190px) {
+    .center_section{
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
+
+@media (min-width: 1191px) and (max-width: 1430px) {
+    .center_section{
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
+
+@media (min-width: 1431px) and (max-width: 1600px) {
+    .center_section{
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    }
+}
+
+@media (min-width: 1601px) {
+    .center_section{
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    }
+}
+
+
+
+
+
+
+
+.left_panel,
+.right_panel{
+    position: fixed;
+    top: 80px;
+    bottom: 50px;
+
+    width: 200px;
+    border: 5px solid gray;
+    border-radius: 20px;
+
+    text-align: center;
+}
+
+.left_panel{
+    left: 50px;
+    
+}
+.right_panel{
+    right: 50px;
+}
+
+.search-bar{
+    margin: 20px;
+    padding: 5px;
+    right: 40px;
+    font-size: large;
+    width: 150px;
+    border: 2px;
+    box-shadow: 3px 5px 10px black;;
+}
+
+
+
+.create-cards-button{
+    font-size: 30px;
+    margin-top: 50px;
+    padding: 8px;
+    color: white;
+    background-color: rgb(2, 151, 244);
+    border: 0px;
+    border-radius: 30px;
+    box-shadow: 3px 5px 10px black;
+    transition: background-color 0.45s, color 0.45s;
+}
+.create-cards-button:hover{
+    background-color: white;
+    color: rgb(2, 151, 244);
+}

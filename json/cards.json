@@ -1,0 +1,609 @@
+[
+    {
+        "tags": "streaming",
+        "name": "Netflix",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
+        "pageUrl": "https://www.netflix.com"
+    },
+    {
+        "tags": "streaming",
+        "name": "Prime Video",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Prime_Video.png",
+        "pageUrl": "https://www.primevideo.com"
+    },
+    {
+        "tags": "streaming",
+        "name": "Disney+",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg",
+        "pageUrl": "https://www.disneyplus.com"
+    },
+    {
+        "tags": "streaming",
+        "name": "Paramount+",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Paramount%2B_logo.svg/1920px-Paramount%2B_logo.svg.png",
+        "pageUrl": "https://www.paramountplus.com"
+    },
+    {
+        "tags": "browser",
+        "name": "Google Chrome",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Google_Chrome_icon_%282011%29.png",
+        "pageUrl": "https://www.google.com/chrome"
+    },
+    {
+        "tags": "browser, microsoft",
+        "name": "Microsoft Edge",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_Edge_logo_%282019%29.svg",
+        "pageUrl": "https://www.microsoft.com/edge"
+    },
+    {
+        "tags": "browser, darknet",
+        "name": "Tor Browser",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tor-logo-2011-flat.svg/1920px-Tor-logo-2011-flat.svg.png",
+        "pageUrl": "https://www.torproject.org"
+    },
+    {
+        "tags": "search-engine, google",
+        "name": "Google",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg",
+        "pageUrl": "https://www.google.com"
+    },
+    {
+        "tags": "search-engine, darknet",
+        "name": "DuckDuckGo",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/The_DuckDuckGo_Duck.png/600px-The_DuckDuckGo_Duck.png?20211207123706",
+        "pageUrl": "https://www.duckduckgo.com"
+    },
+    {
+        "tags": "search-engine, microsoft",
+        "name": "Microsoft Bing",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bing_Fluent_Logo.svg/397px-Bing_Fluent_Logo.svg.png",
+        "pageUrl": "https://www.bing.com"
+    },
+    {
+        "tags": "search-engine",
+        "name": "Yahoo!",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Yahoo%21_%282019%29.svg/1920px-Yahoo%21_%282019%29.svg.png",
+        "pageUrl": "https://www.yahoo.com"
+    },
+    {
+        "tags": "search-engine",
+        "name": "Ecosia",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ecosia_logo.svg/512px-Ecosia_logo.svg.png",
+        "pageUrl": "https://www.ecosia.org"
+    },
+    {
+        "tags": "operating-system, microsoft, computer",
+        "name": "Windows",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/512px-Windows_logo_-_2021.svg.png",
+        "pageUrl": "https://www.microsoft.com/windows"
+    },
+    {
+        "tags": "operating-system, apple, computer",
+        "name": "macOS",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MacOS_logo.svg/1024px-MacOS_logo.svg.png",
+        "pageUrl": "https://www.apple.com/macos"
+    },
+    {
+        "tags": "operating-system, computer, linux",
+        "name": "Linux",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png",
+        "pageUrl": "https://www.linux.org"
+    },
+    {
+        "tags": "operating-system, computer, linux",
+        "name": "Kali Linux",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg",
+        "pageUrl": "https://www.kali.org"
+    },
+    {
+        "tags": "operating-system, computer, linux",
+        "name": "Tails",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Tails-logo-flat-inverted.svg/250px-Tails-logo-flat-inverted.svg.png",
+        "pageUrl": "https://tails.net"
+    },
+    {
+        "tags": "operating-system, apple, phone",
+        "name": "iOS",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/IOS_logo.svg",
+        "pageUrl": "https://www.apple.com/ios"
+    },
+    {
+        "tags": "operating-system, phone",
+        "name": "Android",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Android_logo_2019.png",
+        "pageUrl": "https://www.android.com"
+    },
+    {
+        "tags": "social-media",
+        "name": "Facebook",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2023_Facebook_icon.svg/1024px-2023_Facebook_icon.svg.png",
+        "pageUrl": "https://www.facebook.com"
+    },
+    {
+        "tags": "social-media, Twitter",
+        "name": "X",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/277px-X_logo_2023.svg.png",
+        "pageUrl": "https://www.twitter.com"
+    },
+    {
+        "tags": "social-media, meta",
+        "name": "Instagram",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/600px-Instagram_logo_2022.svg.png",
+        "pageUrl": "https://www.instagram.com"
+    },
+    {
+        "tags": "social-media",
+        "name": "LinkedIn",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/LinkedIn_logo.svg/1920px-LinkedIn_logo.svg.png",
+        "pageUrl": "https://www.linkedin.com"
+    },
+    {
+        "tags": "social-media",
+        "name": "TikTok",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Tiktok_logo_text.svg/1920px-Tiktok_logo_text.svg.png",
+        "pageUrl": "https://www.tiktok.com"
+    },
+    {
+        "tags": "e-commerce",
+        "name": "Amazon",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Amazon_2024.svg/800px-Amazon_2024.svg.png",
+        "pageUrl": "https://www.amazon.com"
+    },
+    {
+        "tags": "e-commerce",
+        "name": "eBay",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/EBay_logo.svg/250px-EBay_logo.svg.png",
+        "pageUrl": "https://www.ebay.com"
+    },
+    {
+        "tags": "e-commerce",
+        "name": "Shopify",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Shopify_logo_2018.svg/250px-Shopify_logo_2018.svg.png",
+        "pageUrl": "https://www.shopify.com"
+    },
+    {
+        "tags": "productivity, software",
+        "name": "Microsoft Office",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Microsoft_Office_Logo_%282019%29.png",
+        "pageUrl": "https://www.microsoft.com/microsoft-365"
+    },
+    {
+        "tags": "productivity, software, free",
+        "name": "Google Workspace",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Google_Docs_icon_%282020%29.svg/436px-Google_Docs_icon_%282020%29.svg.png",
+        "pageUrl": "https://workspace.google.com"
+    },
+    {
+        "tags": "productivity, software, free",
+        "name": "LibreOffice",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LibreOffice_Logo_Flat.svg/1920px-LibreOffice_Logo_Flat.svg.png",
+        "pageUrl": "https://www.libreoffice.org"
+    },
+    {
+        "tags": "productivity, software",
+        "name": "Adobe Creative Cloud",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Adobe_Creative_Cloud_rainbow_icon.svg/1024px-Adobe_Creative_Cloud_rainbow_icon.svg.png",
+        "pageUrl": "https://www.adobe.com/creativecloud"
+    },
+    {
+        "tags": "productivity, software",
+        "name": "Notion",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1024px-Notion-logo.svg.png",
+        "pageUrl": "https://www.notion.so"
+    },
+    {
+        "tags": "productivity, software",
+        "name": "Evernote",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Evernote.svg/1024px-Evernote.svg.png",
+        "pageUrl": "https://www.evernote.com"
+    },
+    {
+        "tags": "gaming",
+        "name": "Steam",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/220px-Steam_icon_logo.svg.png",
+        "pageUrl": "https://store.steampowered.com"
+    },
+    {
+        "tags": "gaming",
+        "name": "Epic Games Store",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Epic_Games_logo.svg/172px-Epic_Games_logo.svg.png",
+        "pageUrl": "https://www.epicgames.com/store"
+    },
+    {
+        "tags": "gaming",
+        "name": "Ubisoft",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ubisoft_logo.svg/1024px-Ubisoft_logo.svg.png",
+        "pageUrl": "https://www.ubisoft.com"
+    },
+    {
+        "tags": "learning, school, quiz, studying",
+        "name": "Kahoot",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Kahoot_Logo.svg/220px-Kahoot_Logo.svg.png",
+        "pageUrl": "https://kahoot.com/"
+
+    },
+    {
+        "tags": "social-media",
+        "name": "Snapchat",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Snapchat_logo.svg/100px-Snapchat_logo.svg.png",
+        "pageUrl": "https://www.snapchat.com"
+    },
+    {
+        "tags": "messaging, communication",
+        "name": "WhatsApp",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+        "pageUrl": "https://www.whatsapp.com"
+    },
+    {
+        "tags": "communication, video-conferencing",
+        "name": "Zoom",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Zoom_Logo_2022.svg/250px-Zoom_Logo_2022.svg.png",
+        "pageUrl": "https://www.zoom.us"
+    },
+    {
+        "tags": "gaming",
+        "name": "PlayStation",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Playstation_logo_colour.svg/134px-Playstation_logo_colour.svg.png",
+        "pageUrl": "https://www.playstation.com"
+    },
+    {
+        "tags": "gaming",
+        "name": "Xbox",
+        "iconUrl": "data:image/png;base64,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",
+        "pageUrl": "https://www.xbox.com"
+    },
+    {
+        "tags": "video, entertainment",
+        "name": "YouTube",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/YouTube_icon_%282013-2017%29.png/600px-YouTube_icon_%282013-2017%29.png",
+        "pageUrl": "https://www.youtube.com"
+    },
+    {
+        "tags": "streaming",
+        "name": "Hulu",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Hulu_logo_%282018%29.svg/300px-Hulu_logo_%282018%29.svg.png",
+        "pageUrl": "https://www.hulu.com"
+    },
+    {
+        "tags": "music-streaming",
+        "name": "Spotify",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg",
+        "pageUrl": "https://www.spotify.com"
+    },
+    {
+        "tags": "music-streaming",
+        "name": "Apple Music",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Apple_Music_logo.svg/250px-Apple_Music_logo.svg.png",
+        "pageUrl": "https://www.apple.com/music"
+    },
+    {
+        "tags": "productivity, software",
+        "name": "Slack",
+        "iconUrl": "data:image/png;base64,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",
+        "pageUrl": "https://www.slack.com"
+    },
+    {
+        "tags": "productivity, communication",
+        "name": "Trello",
+        "iconUrl": "data:image/png;base64,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",
+        "pageUrl": "https://www.trello.com"
+    },
+    {
+        "tags": "design, creativity",
+        "name": "Canva",
+        "iconUrl": "https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxo4K81Ei7WzcnqEk8W.MgwZaVBfEOxNRUFx.FOpSBCZIKmI_GV.cVMHjzURh7CglLs.06ENdpm06tFmVYMaimo8-&format=source",
+        "pageUrl": "https://www.canva.com"
+    },
+    {
+        "tags": "design, creativity",
+        "name": "Figma",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg",
+        "pageUrl": "https://www.figma.com"
+    },
+    {
+        "tags": "file-sharing",
+        "name": "Dropbox",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Dropbox_Icon.svg/1200px-Dropbox_Icon.svg.png",
+        "pageUrl": "https://www.dropbox.com"
+    },
+    {
+        "tags": "file-sharing",
+        "name": "Google Drive",
+        "iconUrl": "data:image/png;base64,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",
+        "pageUrl": "https://drive.google.com"
+    },
+    {
+        "tags": "education",
+        "name": "Khan Academy",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Khan_Academy_logo_%282018%29.svg/300px-Khan_Academy_logo_%282018%29.svg.png",
+        "pageUrl": "https://www.khanacademy.org"
+    },
+    {
+        "tags": "education",
+        "name": "Coursera",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Coursera.svg/250px-Coursera.svg.png",
+        "pageUrl": "https://www.coursera.org"
+    },
+    {
+        "tags": "education",
+        "name": "Udemy",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Udemy_logo.svg/250px-Udemy_logo.svg.png",
+        "pageUrl": "https://www.udemy.com"
+    },
+    {
+        "tags": "job-search",
+        "name": "Indeed",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Indeed_logo.svg/250px-Indeed_logo.svg.png",
+        "pageUrl": "https://www.indeed.com"
+    },
+    {
+        "tags": "job-search",
+        "name": "Glassdoor",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Glassdoor_logo.svg/2560px-Glassdoor_logo.svg.png",
+        "pageUrl": "https://www.glassdoor.com"
+    },
+    {
+        "tags": "job-search",
+        "name": "Monster",
+        "iconUrl": "https://media.comunicazioneitaliana.it/media/images/loghi/original/large/a-f3b9c8f4798b93624783dc37.jpg",
+        "pageUrl": "https://www.monster.com"
+    },
+    {
+        "tags": "developer-tools",
+        "name": "GitHub",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/512px-Octicons-mark-github.svg.png",
+        "pageUrl": "https://www.github.com"
+    },
+    {
+        "tags": "developer-tools",
+        "name": "GitLab",
+        "iconUrl": "https://logos-marques.com/wp-content/uploads/2023/09/Gitlab-logo.png",
+        "pageUrl": "https://www.gitlab.com"
+    },
+    {
+        "tags": "developer-tools",
+        "name": "Bitbucket",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Bitbucket_Logo.png",
+        "pageUrl": "https://bitbucket.org"
+    },
+    {
+        "tags": "antivirus",
+        "name": "Norton Antivirus",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/No6977o17a-norton-logo-official-site-norton-antivirus-amp-anti-malware-software.png",
+        "pageUrl": "https://www.norton.com"
+    },
+    {
+        "tags": "antivirus",
+        "name": "McAfee",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/McAfee_logo.svg/250px-McAfee_logo.svg.png",
+        "pageUrl": "https://www.mcafee.com"
+    },
+    {
+        "tags": "cloud-services",
+        "name": "AWS",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/250px-Amazon_Web_Services_Logo.svg.png",
+        "pageUrl": "https://aws.amazon.com"
+    },
+    {
+        "tags": "cloud-services",
+        "name": "Microsoft Azure",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/150px-Microsoft_Azure.svg.png",
+        "pageUrl": "https://azure.microsoft.com"
+    },
+    {
+        "tags": "travel",
+        "name": "Booking.com",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Booking.com_Logo.svg/250px-Booking.com_Logo.svg.png",
+        "pageUrl": "https://www.booking.com"
+    },
+    {
+        "tags": "travel",
+        "name": "Airbnb",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Airbnb_Logo_B%C3%A9lo.svg/512px-Airbnb_Logo_B%C3%A9lo.svg.png",
+        "pageUrl": "https://www.airbnb.com"
+    },
+    {
+        "tags": "travel",
+        "name": "Expedia",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Expedia_Group_logo.svg/220px-Expedia_Group_logo.svg.png",
+        "pageUrl": "https://www.expedia.com"
+    },
+    {
+        "tags": "news",
+        "name": "BBC News",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/200px-BBC_Logo_2021.svg.png",
+        "pageUrl": "https://www.bbc.com/news"
+    },
+    {
+        "tags": "news",
+        "name": "CNN",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/a/af/Cable-news-network-logo.svg/300px-Cable-news-network-logo.svg.png",
+        "pageUrl": "https://www.cnn.com"
+    },
+    {
+        "tags": "news",
+        "name": "The New York Times",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/NewYorkTimes.svg/1280px-NewYorkTimes.svg.png",
+        "pageUrl": "https://www.nytimes.com"
+    },  
+    {
+        "tags": "messaging",
+        "name": "Telegram",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg",
+        "pageUrl": "https://telegram.org"
+    },
+    {
+        "tags": "messaging",
+        "name": "Signal",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Signal-Logo.svg",
+        "pageUrl": "https://signal.org"
+    },
+    {
+        "tags": "messaging",
+        "name": "WeChat",
+        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUjoJXtOYY-rGZj-o4qzcvlEvdgHazFcvrLQ&s",
+        "pageUrl": "https://www.wechat.com"
+    },
+    {
+        "tags": "messaging",
+        "name": "Viber",
+        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRXirydbXdmBYVl95QaNG4-0blj7B9qXeTmw&s",
+        "pageUrl": "https://www.viber.com"
+    },
+    {
+        "tags": "messaging",
+        "name": "Line",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/LINE_logo.svg",
+        "pageUrl": "https://line.me"
+    },
+    {
+        "tags": "messaging",
+        "name": "Kik",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Kik_Messenger_logo.png",
+        "pageUrl": "https://www.kik.com"
+    },
+    {
+        "tags": "messaging",
+        "name": "Threema",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Threema_app_logo_SVG.svg/1200px-Threema_app_logo_SVG.svg.png",
+        "pageUrl": "https://threema.ch"
+    },
+    {
+        "tags": "messaging",
+        "name": "Facebook Messenger",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Facebook_Messenger_logo_2020.svg/1200px-Facebook_Messenger_logo_2020.svg.png",
+        "pageUrl": "https://www.messenger.com"
+    },
+    {
+        "tags": "messaging",
+        "name": "Discord",
+        "iconUrl": "data:image/png;base64,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",
+        "pageUrl": "https://discord.com"
+    },
+    {
+        "tags": "messaging",
+        "name": "Microsoft Teams",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg/800px-Microsoft_Office_Teams_%282018%E2%80%93present%29.svg.png",
+        "pageUrl": "https://www.microsoft.com/en-us/microsoft-teams"
+    },
+    {
+        "tags": "messaging",
+        "name": "Google Chat",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Google_Chat_icon_%282023%29.svg/128px-Google_Chat_icon_%282023%29.svg.png",
+        "pageUrl": "https://chat.google.com"
+    },
+    {
+        "tags": "messaging",
+        "name": "Wire",
+        "iconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAk1BMVEVHcEzo6Ojy8vL19fXz8/P39/f+/v79/f39/f36+vr////w8PD5+fn09PT09PTHx8f5+fm3t7efn59vb2/x8fE/Pz9NTU3g4OCtra329vbq6uqRkZHm5uZZWVkeHh7GxsaqqqqUlJQtLS0AAACurq4TExOcnJzg4OAAAAC9vb0uLi7S0tKDg4NBQUFvb2+YmJhKSkpe1zr9AAAAMXRSTlMADx5Gktbz/2LD/yygZf////////////8Y//8V5P8KtP///wRr/zbZEpMuwVxKXI1h76hESQAAAUlJREFUeAFtzIWWgzAURdGHppoGmhSpKy7//3VzCbMIIwd92RCaZenon2zH9XzGfM917F9kLZYrtvpuubDmtt5ATGyzNuYsjY26dKb/jBldj2ZtjBndWBq3czO6JWQv/8elDXSM8d2OG3WArkYR4Bbu9yEegdDoElme/k4q3A5RdMBDSb3kWRQnIx4G5Fw/RkxiitkMpZwhGxBpZPhTP4BsCMj1y7iapjPkMR1PI6qUrc5hCEyV1EunI12uTAjB5Pm2Wt0fj/tqdTtLvXS90POFNxSoW7R7v4NdqAKMwNeT6JPhLRE8ODzU/a4e6sYxJiL7EFFewBKMaZpyjluiR1HkhMpK8ITzBOEG4UhUJQ1d6kzP85KsvpAuf0HlT3vlgFFr7CynsGcNm7QpMqEdIrKiMYYuZdtdT5Ixebp2bXkxMnJeNj1qynyiL4DuKHGRqd2eAAAAAElFTkSuQmCC",
+        "pageUrl": "https://wire.com"
+    },
+    {
+        "tags": "messaging, apple",
+        "name": "iMessage",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IMessage_logo.svg/200px-IMessage_logo.svg.png",
+        "pageUrl": "https://support.apple.com/imessage"
+    },
+    {
+        "tags": "messaging",
+        "name": "BBM (BlackBerry Messenger)",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/BlackBerry_Messenger_logo.png/220px-BlackBerry_Messenger_logo.png",
+        "pageUrl": "https://global.blackberry.com"
+    },
+    {
+        "tags": "news",
+        "name": "Tagesschau",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Tagesschau_Logo_2015.svg/300px-Tagesschau_Logo_2015.svg.png",
+        "pageUrl": "https://www.tagesschau.de"
+    },
+    {
+        "tags": "news",
+        "name": "Reuters",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Reuters_logo_2024.svg/1920px-Reuters_logo_2024.svg.png",
+        "pageUrl": "https://www.reuters.com"
+    },
+    {
+        "tags": "news",
+        "name": "Al Jazeera",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/90px-Aljazeera.svg.png",
+        "pageUrl": "https://www.aljazeera.com"
+    },
+    {
+        "tags": "news",
+        "name": "The Guardian",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/The_Guardian_2018.svg/220px-The_Guardian_2018.svg.png",
+        "pageUrl": "https://www.theguardian.com"
+    },
+    {
+        "tags": "news",
+        "name": "Deutsche Welle",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/300px-Deutsche_Welle_Logo.svg.png",
+        "pageUrl": "https://www.dw.com"
+    },
+    {
+        "tags": "news",
+        "name": "France 24",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/de/thumb/6/65/FRANCE_24_logo.svg/265px-FRANCE_24_logo.svg.png",
+        "pageUrl": "https://www.france24.com"
+    },
+    {
+        "tags": "news",
+        "name": "Washington Post",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/The_Logo_of_The_Washington_Post_Newspaper.svg/1920px-The_Logo_of_The_Washington_Post_Newspaper.svg.png",
+        "pageUrl": "https://www.washingtonpost.com"
+    },
+    {
+        "tags": "news",
+        "name": "Bloomberg",
+        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHIywl5QW0qg7BDqKUzx6u10njBQ5bxfDpww&s",
+        "pageUrl": "https://www.bloomberg.com"
+    },
+    {
+        "tags": "news",
+        "name": "Financial Times",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Financial_Times_corporate_logo_%28no_background%29.svg/640px-Financial_Times_corporate_logo_%28no_background%29.svg.png",
+        "pageUrl": "https://www.ft.com"
+    },
+    {
+        "tags": "news",
+        "name": "Euronews",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/220px-Euronews._2016_alternative_logo.png",
+        "pageUrl": "https://www.euronews.com"
+    },
+    {
+        "tags": "news",
+        "name": "Sky News",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sky-news-logo.svg/1200px-Sky-news-logo.svg.png",
+        "pageUrl": "https://news.sky.com"
+    },
+    {
+        "tags": "news",
+        "name": "ABC News",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ABC_News_solid_black_logo.svg/1200px-ABC_News_solid_black_logo.svg.png",
+        "pageUrl": "https://abcnews.go.com"
+    },
+    {
+        "tags": "news",
+        "name": "NBC News",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/NBC_News_%282023%29.svg",
+        "pageUrl": "https://www.nbcnews.com"
+    },
+    {
+        "tags": "news",
+        "name": "CBS News",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/CBS_News.svg",
+        "pageUrl": "https://www.cbsnews.com"
+    },
+    {
+        "tags": "news",
+        "name": "Axios",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Axios_logo_%282020%29.svg/1200px-Axios_logo_%282020%29.svg.png",
+        "pageUrl": "https://www.axios.com"
+    },
+    {
+        "tags": "news",
+        "name": "Politico",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/POLITICOLOGO.svg/250px-POLITICOLOGO.svg.png",
+        "pageUrl": "https://www.politico.com"
+    }
+]
