@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 function loadCards() {
-    fetch('../json/cards.json')
+    fetch('cards.json')
         .then(response => response.json())
         .then(data => {
             const cardsContainer = document.getElementById('cards');
